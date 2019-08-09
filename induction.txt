@@ -1,0 +1,7 @@
+index.html:游戏页面，引入样式文件及逻辑文件
+2048.css:游戏样式
+jquery.js:
+support.js:游戏基础逻辑文件
+animation.js:游戏动画逻辑文件
+main.js:游戏主逻辑文件
+game.js:游戏交互逻辑文件
